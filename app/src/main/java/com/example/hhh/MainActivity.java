@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_notifications:
                     mTextMessage.setText(R.string.title_notifications);
                     //你好
+                    //你
                     return true;
             }
             return false;
