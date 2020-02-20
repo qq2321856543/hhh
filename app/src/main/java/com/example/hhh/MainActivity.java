@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                     mTextMessage.setText(R.string.title_notifications);
                     //你好
                     //你
+                    //fff
                     return true;
             }
             return false;
